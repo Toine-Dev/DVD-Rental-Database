@@ -5,7 +5,7 @@
 Sakila Movie Database Investigation
 
 ### Description
-Queries data in various ways so as to visualise the results and draw insights from them.
+Queries data in various ways from the Sakila Movie database so as to visualise the results and draw insights from them.
 
 ### Files used
 * dvdrental_database.zip
